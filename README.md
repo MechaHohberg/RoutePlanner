@@ -1,2 +1,3 @@
+## Intro to Self-Driving Cars Nanodegree
 # RoutePlanner
-Intro to Self-Driving Cars Nanodegree -> Module 6 Udacity project
+Module 6
